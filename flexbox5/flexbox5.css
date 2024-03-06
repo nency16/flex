@@ -1,0 +1,42 @@
+.a {
+    border: 2px solid;
+    height: 500px;
+    width: 400px;
+    background-color: skyblue;
+
+
+}
+
+.b {
+    border: 2px solid;
+    height: 500px;
+    width: 400px;
+    background-color: skyblue;
+}
+
+.c {
+    border: 2px solid;
+    height: 500px;
+    width: 650px;
+    background-color: skyblue;
+    margin-top: -2px;
+}
+
+.d {
+    width: 140px;
+    margin-top: 20px;
+    margin-left: 1px;
+
+}
+
+.m {
+    width: 140px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.s {
+    width: 600px;
+    margin-top: 30px;
+    margin-left: 20px;
+}

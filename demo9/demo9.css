@@ -1,0 +1,51 @@
+
+    
+
+.h{
+    border: 1px solid;
+    height: 350px;
+    width: 650px;
+    background-color: white;
+    text-align: center;
+    padding: 10px;
+    margin: auto;
+    margin-top: 100px;
+    font-size: larger;
+    
+
+
+
+}
+
+.a{
+    border: 1px solid;
+    border-bottom: 10px;
+    border: 1px solid;
+    border-left: 0px;
+    border-right: 0px;
+    background-color: white;
+    border-top: 0px;
+    text-align: center;
+    width: 100%;
+    margin-left: 10px;
+    
+    
+    
+    
+}
+
+.d{
+    border: 1px solid;
+   display: flex;justify-content: flex-start;
+   margin-top: 50px;
+   width: 150px;
+   background: linear-gradient(to bottom right,rgb(64, 99, 161) 5%,rgba(212, 63, 98, 0.632) 100%);
+padding: 5px;
+margin-left: 10px;
+}
+label{
+    margin-left: 10px;
+}
+
+
+    

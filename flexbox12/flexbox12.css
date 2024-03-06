@@ -1,0 +1,27 @@
+.a{
+    border: 10px solid;
+    height: 600px;
+    width: 400px;
+    margin-top: 5%;
+    border-color: blue;
+    background-color: white;
+    margin-top: 10px;
+}
+.b{
+    border: 10px solid;
+    height: 600px;
+    width: 400px;
+    margin-top: 5%;
+    border-color: blue;
+    background-color: white;
+    margin-top: 20%;
+}
+.c{border: 10px solid;
+    height: 600px;
+    width: 400px;
+    margin-top: 5%;
+    border-color: blue;
+    background-color: white;
+   margin-top: 40%;
+
+}
